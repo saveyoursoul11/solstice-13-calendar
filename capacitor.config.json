@@ -1,0 +1,8 @@
+{
+  "appId": "com.solsticethirteen.calendar",
+  "appName": "Solstice Thirteen Calendar",
+  "webDir": "www",
+  "ios": {
+    "contentInset": "automatic"
+  }
+}
